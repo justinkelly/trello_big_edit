@@ -1,6 +1,6 @@
 {
     "name": "Trello : Big Edit",
-        "version": "1.0",
+        "version": "2",
         "manifest_version": 2,
         "description": "Makes the card edit window in Trello.com full screen",
         "icons": { "16": "icon16.png",

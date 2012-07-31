@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Trello : Big Edit
 // @author         Justin Kelly http://justin.kelly.org.au @_justin_kelly
-// @version        1
+// @version        2
 // @include        https://trello.com/*
 // @include        http://trello.com/*
 // ==/UserScript==
@@ -16,6 +16,10 @@ cssString = ' '+
 	'.window-main-col '+
 	'{ '+
 	'	width:80% !important; '+
+	'} '+
+	'.window-main-col .edit textarea.field '+
+	'{ '+
+	'	min-height:492px; '+
 	'} '+
 	'.window-wrapper{ '+
 	'	height: 100%; '+
