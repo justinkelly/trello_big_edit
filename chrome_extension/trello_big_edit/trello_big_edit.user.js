@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Trello : Big Edit
+// @name           Full screen card view for Trello
 // @author         Justin Kelly http://justin.kelly.org.au @_justin_kelly
 // @version        2
 // @include        https://trello.com/*
