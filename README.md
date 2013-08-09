@@ -11,10 +11,10 @@ Full screen card view for Trello - Chrome and user script extension
 ### Screenshots
 
 Trello wtth 'Full screen card view for Trello' extension in Chrome
-![][https://googledrive.com/host/0B3qPjbk9su5uMWhkak9QdjJFOTg/Trello-with.png]
+![](https://googledrive.com/host/0B3qPjbk9su5uMWhkak9QdjJFOTg/Trello-with.png)
 
 Trello without 'Full screen card view for Trello' extension in Chrome
-![][https://googledrive.com/host/0B3qPjbk9su5uMWhkak9QdjJFOTg/Trello-without.png]
+![](https://googledrive.com/host/0B3qPjbk9su5uMWhkak9QdjJFOTg/Trello-without.png)
 
 ### About
 
